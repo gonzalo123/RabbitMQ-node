@@ -1,0 +1,14 @@
+{
+  "name": "gonzalo123/rabbitWrapper",
+  "description": "RabbitMQ Wrapper",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Ayuso <gonzalo123@gmail.com> (https://gonzalo123.com/)",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
