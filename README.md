@@ -1,4 +1,4 @@
-PHP RabbitMQ Wrapper
+Node RabbitMQ Wrapper
 ======
 
 Simple RabbitMQ Wrapper with Node using amqplib
